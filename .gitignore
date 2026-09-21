@@ -1,0 +1,21 @@
+# private/local work
+work/
+dist/
+.local/
+.env
+*.secret
+*.token
+
+# raw media and exports
+raw-media/
+private-data/
+*.mov
+*.mp4
+*.wav
+*.m4a
+*.zip
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
