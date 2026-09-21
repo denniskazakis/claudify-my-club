@@ -2,7 +2,7 @@
 
 Claude-ready project templates for small clubs, esports communities, youth groups, local events, and volunteer teams.
 
-The goal: turn messy club work into clear Claude conversations, reusable project folders, and safe publishing checklists — without needing a custom agent platform.
+The goal: turn messy club work into clear Claude conversations, reusable project folders, and safe publishing checklists — without needing custom infrastructure.
 
 ## What this repo gives you
 
